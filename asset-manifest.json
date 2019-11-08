@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactube/static/css/main.c43f38cc.chunk.css",
+    "main.js": "/reactube/static/js/main.103fda2f.chunk.js",
+    "main.js.map": "/reactube/static/js/main.103fda2f.chunk.js.map",
+    "runtime-main.js": "/reactube/static/js/runtime-main.8734d1ec.js",
+    "runtime-main.js.map": "/reactube/static/js/runtime-main.8734d1ec.js.map",
+    "static/js/2.5fdbe5e3.chunk.js": "/reactube/static/js/2.5fdbe5e3.chunk.js",
+    "static/js/2.5fdbe5e3.chunk.js.map": "/reactube/static/js/2.5fdbe5e3.chunk.js.map",
+    "index.html": "/reactube/index.html",
+    "precache-manifest.92e8839d881f041ed73f1b229aa65dec.js": "/reactube/precache-manifest.92e8839d881f041ed73f1b229aa65dec.js",
+    "service-worker.js": "/reactube/service-worker.js",
+    "static/css/main.c43f38cc.chunk.css.map": "/reactube/static/css/main.c43f38cc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8734d1ec.js",
+    "static/js/2.5fdbe5e3.chunk.js",
+    "static/css/main.c43f38cc.chunk.css",
+    "static/js/main.103fda2f.chunk.js"
+  ]
+}
